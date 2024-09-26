@@ -9,6 +9,11 @@ available [here](https://docs.google.com/presentation/d/18XZcuokdTafTay8HKZzO0Kk
 
 You will find a collection of code associated to the demo on the slides.
 
+### Array-API: GPU dispatch
+
+The [following notebook](https://colab.research.google.com/drive/1TeF6fZQvvKFRJDagXN6Bbn0199sRiQ6j?usp=sharing)
+show a demo leveraging the Array-API that dispatches some computation on a GPU.
+
 ### References
 
 #### Metadata routing
