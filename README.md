@@ -9,6 +9,13 @@ available [here](https://docs.google.com/presentation/d/18XZcuokdTafTay8HKZzO0Kk
 
 You will find a collection of code associated to the demo on the slides.
 
+### Optmising operational decision
+
+You can refer to the
+[following example](https://scikit-learn.org/stable/auto_examples/model_selection/plot_cost_sensitive_learning.html#sphx-glr-auto-examples-model-selection-plot-cost-sensitive-learning-py) 
+to see a use case using the new `TunedThresholdClassifierCV` to optimize
+the decision of a classifier based on a business metric.
+
 ### Array-API: GPU dispatch
 
 The [following notebook](https://colab.research.google.com/drive/1TeF6fZQvvKFRJDagXN6Bbn0199sRiQ6j?usp=sharing)
