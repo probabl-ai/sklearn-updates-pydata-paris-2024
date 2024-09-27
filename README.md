@@ -21,6 +21,13 @@ the decision of a classifier based on a business metric.
 The [following notebook](https://colab.research.google.com/drive/1TeF6fZQvvKFRJDagXN6Bbn0199sRiQ6j?usp=sharing)
 show a demo leveraging the Array-API that dispatches some computation on a GPU.
 
+### Metadata Routing API
+
+[This
+notebook](https://github.com/StefanieSenger/Talks/blob/main/2024_Metadata-Routing-API/metatdata_routing_API.ipynb)
+contains the code shown in the talk on the metadata routing API and some notes for the context.
+
+
 ### References
 
 #### Metadata routing
